@@ -1,0 +1,35 @@
+2025-08-21 15:03:51,156 [INFO] Memory RSS: 84.51 MB | VMS: 157.68 MB | CPU: 3.9%
+2025-08-21 15:03:51,689 [INFO] Memory RSS: 84.95 MB | VMS: 157.68 MB | CPU: 5.4%
+2025-08-21 15:03:52,220 [INFO] Memory RSS: 85.20 MB | VMS: 158.68 MB | CPU: 0.8%
+2025-08-21 15:03:52,749 [INFO] Memory RSS: 85.46 MB | VMS: 158.68 MB | CPU: 0.8%
+2025-08-21 15:03:53,279 [INFO] Memory RSS: 85.72 MB | VMS: 158.68 MB | CPU: 2.3%
+2025-08-21 15:03:53,285 [INFO] Scraping finished. Saved 0 records to data/output.csv
+2025-08-21 15:03:53,285 [INFO] Execution time: 3.87 seconds
+2025-08-21 15:03:53,316 [INFO] cProfile data saved to scraper_profile.prof
+2025-08-21 15:11:33,141 [INFO] Memory RSS: 82.83 MB | VMS: 156.82 MB | CPU: 0.8%
+2025-08-21 15:11:33,736 [INFO] Memory RSS: 83.75 MB | VMS: 156.82 MB | CPU: 2.3%
+2025-08-21 15:11:34,328 [INFO] Memory RSS: 84.59 MB | VMS: 157.82 MB | CPU: 0.8%
+2025-08-21 15:11:34,328 [INFO] Scraping finished. Saved 0 records to data/books.csv
+2025-08-21 15:11:34,328 [INFO] Execution time: 3.45 seconds
+2025-08-21 15:11:34,342 [INFO] cProfile data saved to scraper_profile.prof
+2025-08-21 15:11:47,389 [INFO] Memory RSS: 82.69 MB | VMS: 156.83 MB | CPU: 3.0%
+2025-08-21 15:11:47,981 [INFO] Memory RSS: 83.59 MB | VMS: 156.83 MB | CPU: 0.8%
+2025-08-21 15:11:48,571 [INFO] Memory RSS: 84.43 MB | VMS: 157.84 MB | CPU: 1.5%
+2025-08-21 15:11:48,576 [INFO] Scraping finished. Saved 0 records to data/books.csv
+2025-08-21 15:11:48,576 [INFO] Execution time: 2.85 seconds
+2025-08-21 15:11:48,592 [INFO] cProfile data saved to scraper_profile.prof
+2025-08-21 15:21:18,295 [INFO] Memory RSS: 82.67 MB | VMS: 156.70 MB | CPU: 0.8%
+2025-08-21 15:21:18,904 [INFO] Memory RSS: 83.55 MB | VMS: 156.70 MB | CPU: 1.6%
+2025-08-21 15:21:19,515 [INFO] Memory RSS: 84.40 MB | VMS: 157.70 MB | CPU: 0.8%
+2025-08-21 15:21:19,515 [INFO] Scraping finished. Saved 60 records to data/books.csv
+2025-08-21 15:21:19,515 [INFO] Execution time: 2.98 seconds
+2025-08-21 15:21:19,530 [INFO] cProfile data saved to scraper_profile.prof
+2025-08-21 15:43:28,303 [ERROR] Could not fetch live FX rate: Currency Rates Source Not Ready
+2025-08-21 15:43:31,010 [INFO] Memory RSS: 87.64 MB | VMS: 160.41 MB | CPU: 9.2%
+2025-08-21 15:43:31,543 [INFO] Memory RSS: 87.89 MB | VMS: 160.41 MB | CPU: 3.8%
+2025-08-21 15:43:32,071 [INFO] Memory RSS: 87.92 MB | VMS: 160.41 MB | CPU: 8.5%
+2025-08-21 15:43:32,598 [INFO] Memory RSS: 88.17 MB | VMS: 160.41 MB | CPU: 14.8%
+2025-08-21 15:43:33,159 [INFO] Memory RSS: 88.43 MB | VMS: 161.41 MB | CPU: 8.6%
+2025-08-21 15:43:33,168 [INFO] \u2705 Scraping finished. Saved 0 records to data/output.csv
+2025-08-21 15:43:33,168 [INFO] Execution time: 66.50 seconds
+2025-08-21 15:43:33,184 [INFO] cProfile data saved to scraper_profile.prof
